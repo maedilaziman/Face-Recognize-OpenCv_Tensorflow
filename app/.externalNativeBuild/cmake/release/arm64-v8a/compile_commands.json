@@ -1,0 +1,133 @@
+[
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\imageutils_jni.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\frame_pair.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\image_neon.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\keypoint_detector.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\logging.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_detector.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_tracker.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_tracker_jni.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\optical_flow.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\time_log.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\tracked_object.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\utils_neon.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\prewhiten.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\prewhiten.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\prewhiten.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\rgb2yuv.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O2 -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\yuv2rgb.cc.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\common.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\common.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\common.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\jnilibsvm.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\jnilibsvm.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\jnilibsvm.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\libsvm\\svm-predict.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-predict.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-predict.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\libsvm\\svm-scale.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-scale.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-scale.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\libsvm\\svm-train.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-train.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-train.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djnilibsvm_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o jnilibsvm\\CMakeFiles\\jnilibsvm.dir\\libsvm\\svm.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm.cpp"
+},
+
+{
+  "directory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/release/arm64-v8a",
+  "command": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O2 -DNDEBUG  -fPIC   -o facedetect\\CMakeFiles\\native-lib.dir\\cpp\\native-lib.cpp.o -c C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\cpp\\native-lib.cpp",
+  "file": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\cpp\\native-lib.cpp"
+}
+]

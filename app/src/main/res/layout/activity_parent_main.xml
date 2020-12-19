@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/buttonDeleteParentFolder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/darker_gray"
+            android:text="Delete Parent Folder"
+            android:textAllCaps="false"
+            android:textSize="@dimen/d18"
+            android:textColor="@android:color/black"
+            android:paddingLeft="@dimen/d10"
+            android:paddingRight="@dimen/d10" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            style="?android:attr/progressBarStyle"
+            android:padding="2dp"
+            android:indeterminateTint="@color/em_black_54"
+            android:layout_marginTop="@dimen/d5"
+            android:layout_marginBottom="@dimen/d5"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/buttonAddUnknowUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/darker_gray"
+            android:text="Add Unknow User"
+            android:textAllCaps="false"
+            android:textSize="@dimen/d18"
+            android:textColor="@android:color/black"
+            android:paddingLeft="@dimen/d10"
+            android:paddingRight="@dimen/d10"
+            android:layout_marginTop="@dimen/d20"/>
+
+        <Button
+            android:id="@+id/buttonAddUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/darker_gray"
+            android:text="Add User"
+            android:textAllCaps="false"
+            android:textSize="@dimen/d18"
+            android:textColor="@android:color/black"
+            android:paddingLeft="@dimen/d10"
+            android:paddingRight="@dimen/d10"
+            android:layout_marginTop="@dimen/d20"/>
+
+        <Button
+            android:id="@+id/buttonScan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/darker_gray"
+            android:text="Scan Face"
+            android:textAllCaps="false"
+            android:textSize="@dimen/d18"
+            android:textColor="@android:color/black"
+            android:paddingLeft="@dimen/d10"
+            android:paddingRight="@dimen/d10"
+            android:layout_marginTop="@dimen/d20"/>
+
+    </LinearLayout>
+
+</LinearLayout>

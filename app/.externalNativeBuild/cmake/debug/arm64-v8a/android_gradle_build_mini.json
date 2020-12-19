@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+    "C:\\AndroidSDKPortable\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\CMakeLists.txt",
+    "C:\\AndroidSDKPortable\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "tensorflow_demo-Debug-arm64-v8a": {
+      "artifactName": "tensorflow_demo",
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target tensorflow_demo",
+      "abi": "arm64-v8a",
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libtensorflow_demo.so"
+    },
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    },
+    "jnilibsvm-Debug-arm64-v8a": {
+      "artifactName": "jnilibsvm",
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target jnilibsvm",
+      "abi": "arm64-v8a",
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libjnilibsvm.so"
+    }
+  }
+}

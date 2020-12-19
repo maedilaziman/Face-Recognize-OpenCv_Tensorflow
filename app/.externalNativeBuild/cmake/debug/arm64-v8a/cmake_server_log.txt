@@ -1,0 +1,215 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni",
+  "buildDirectory": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DANDROID_PLATFORM\u003dandroid-21",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DANDROID_NDK\u003dC:\\AndroidSDKPortable\\ndk-bundle",
+    "-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DCMAKE_SYSTEM_VERSION\u003d21",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\AndroidSDKPortable\\ndk-bundle",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\AndroidSDKPortable\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "-G Ninja",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":450,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":674,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":900,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":924,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":950,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":974,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":250,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":500,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":750,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","C:/AndroidSDKPortable/ndk-bundle/build/cmake/android.toolchain.cmake","C:/AndroidSDKPortable/ndk-bundle/build/cmake/platforms.cmake","tensorflow_demo/CMakeLists.txt","jnilibsvm/CMakeLists.txt","facedetect/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"C:/AndroidSDKPortable/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/facedetect","name":"FACEDETECT","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect","targets":[{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/facedetect","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info  -fPIC  ","defines":["native_lib_EXPORTS"],"includePath":[{"path":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect/native/jni/include"}],"isGenerated":false,"language":"CXX","sources":["cpp/native-lib.cpp"]}],"fullName":"libnative-lib.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack","linkLibraries":"C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\jniLibs\\arm64-v8a\\libopencv_java3.so -llog -latomic -lm","linkerLanguage":"CXX","name":"native-lib","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a","name":"FACERECOGNIZER","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni","targets":[{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libtensorflow_demo.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/tensorflow_demo","fileGroups":[{"isGenerated":false,"sources":["CMakeLists.txt","object_tracking/config.h","object_tracking/flow_cache.h","object_tracking/frame_pair.h","object_tracking/geom.h","object_tracking/gl_utils.h","object_tracking/image-inl.h","object_tracking/image.h","object_tracking/image_data.h","object_tracking/image_utils.h","object_tracking/integral_image.h","object_tracking/jni_utils.h","object_tracking/keypoint.h","object_tracking/keypoint_detector.h","object_tracking/logging.h","object_tracking/object_detector.h","object_tracking/object_model.h","object_tracking/object_tracker.h","object_tracking/optical_flow.h","object_tracking/sprite.h","object_tracking/time_log.h","object_tracking/tracked_object.h","object_tracking/utils.h","prewhiten.h","rgb2yuv.h","yuv2rgb.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O0 -fno-limit-debug-info  -fPIC  ","defines":["tensorflow_demo_EXPORTS"],"includePath":[{"path":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni"}],"isGenerated":false,"language":"CXX","sources":["imageutils_jni.cc","object_tracking/frame_pair.cc","object_tracking/image_neon.cc","object_tracking/keypoint_detector.cc","object_tracking/logging.cc","object_tracking/object_detector.cc","object_tracking/object_tracker.cc","object_tracking/object_tracker_jni.cc","object_tracking/optical_flow.cc","object_tracking/time_log.cc","object_tracking/tracked_object.cc","object_tracking/utils_neon.cc","prewhiten.cc","rgb2yuv.cc","yuv2rgb.cc"]}],"fullName":"libtensorflow_demo.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack                                -Wl,--allow-multiple-definition                               -Wl,--whole-archive -fPIE -v","linkLibraries":"-landroid -llog -ljnigraphics -lm -latomic -lz -latomic -lm","linkerLanguage":"CXX","name":"tensorflow_demo","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/tensorflow_demo","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libjnilibsvm.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/jnilibsvm","fileGroups":[{"isGenerated":false,"sources":["CMakeLists.txt","common.h","libsvm/svm-predict.h","libsvm/svm-scale.h","libsvm/svm-train.h","libsvm/svm.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info  -fPIC  ","defines":["jnilibsvm_EXPORTS"],"isGenerated":false,"language":"CXX","sources":["common.cpp","jnilibsvm.cpp","libsvm/svm-predict.cpp","libsvm/svm-scale.cpp","libsvm/svm-train.cpp","libsvm/svm.cpp"]}],"fullName":"libjnilibsvm.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack","linkLibraries":"-landroid -llog -ldl -latomic -lm","linkerLanguage":"CXX","name":"jnilibsvm","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/jnilibsvm","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/facedetect","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info  -fPIC  ","defines":["native_lib_EXPORTS"],"includePath":[{"path":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect/native/jni/include"}],"isGenerated":false,"language":"CXX","sources":["cpp/native-lib.cpp"]}],"fullName":"libnative-lib.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack","linkLibraries":"C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\jniLibs\\arm64-v8a\\libopencv_java3.so -llog -latomic -lm","linkerLanguage":"CXX","name":"native-lib","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/jnilibsvm","name":"JNILIBSVM","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/jnilibsvm","targets":[{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libjnilibsvm.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/jnilibsvm","fileGroups":[{"isGenerated":false,"sources":["CMakeLists.txt","common.h","libsvm/svm-predict.h","libsvm/svm-scale.h","libsvm/svm-train.h","libsvm/svm.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info  -fPIC  ","defines":["jnilibsvm_EXPORTS"],"isGenerated":false,"language":"CXX","sources":["common.cpp","jnilibsvm.cpp","libsvm/svm-predict.cpp","libsvm/svm-scale.cpp","libsvm/svm-train.cpp","libsvm/svm.cpp"]}],"fullName":"libjnilibsvm.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack","linkLibraries":"-landroid -llog -ldl -latomic -lm","linkerLanguage":"CXX","name":"jnilibsvm","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/jnilibsvm","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/tensorflow_demo","name":"TENSORFLOW_DEMO","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/tensorflow_demo","targets":[{"artifacts":["C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libtensorflow_demo.so"],"buildDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/arm64-v8a/tensorflow_demo","fileGroups":[{"isGenerated":false,"sources":["CMakeLists.txt","object_tracking/config.h","object_tracking/flow_cache.h","object_tracking/frame_pair.h","object_tracking/geom.h","object_tracking/gl_utils.h","object_tracking/image-inl.h","object_tracking/image.h","object_tracking/image_data.h","object_tracking/image_utils.h","object_tracking/integral_image.h","object_tracking/jni_utils.h","object_tracking/keypoint.h","object_tracking/keypoint_detector.h","object_tracking/logging.h","object_tracking/object_detector.h","object_tracking/object_model.h","object_tracking/object_tracker.h","object_tracking/optical_flow.h","object_tracking/sprite.h","object_tracking/time_log.h","object_tracking/tracked_object.h","object_tracking/utils.h","prewhiten.h","rgb2yuv.h","yuv2rgb.h"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -ftree-vectorize -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O0 -fno-limit-debug-info  -fPIC  ","defines":["tensorflow_demo_EXPORTS"],"includePath":[{"path":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni"}],"isGenerated":false,"language":"CXX","sources":["imageutils_jni.cc","object_tracking/frame_pair.cc","object_tracking/image_neon.cc","object_tracking/keypoint_detector.cc","object_tracking/logging.cc","object_tracking/object_detector.cc","object_tracking/object_tracker.cc","object_tracking/object_tracker_jni.cc","object_tracking/optical_flow.cc","object_tracking/time_log.cc","object_tracking/tracked_object.cc","object_tracking/utils_neon.cc","prewhiten.cc","rgb2yuv.cc","yuv2rgb.cc"]}],"fullName":"libtensorflow_demo.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack                                -Wl,--allow-multiple-definition                               -Wl,--whole-archive -fPIE -v","linkLibraries":"-landroid -llog -ljnigraphics -lm -latomic -lz -latomic -lm","linkerLanguage":"CXX","name":"tensorflow_demo","sourceDirectory":"C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/tensorflow_demo","sysroot":"C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

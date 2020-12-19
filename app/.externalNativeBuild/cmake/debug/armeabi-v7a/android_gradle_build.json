@@ -1,0 +1,303 @@
+{
+  "stringTable": {
+    "0": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/armeabi-v7a/facedetect",
+    "1": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info  -fPIC  ",
+    "2": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/armeabi-v7a/tensorflow_demo",
+    "3": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dtensorflow_demo_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing -fPIE -O0 -fno-limit-debug-info -fPIC",
+    "4": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Djnilibsvm_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info -fPIC",
+    "5": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/AndroidSDKPortable/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -IC:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/src/main/jni/facedetect/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -fno-exceptions -frtti -O0 -fno-limit-debug-info -fPIC",
+    "6": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -O0 -fno-limit-debug-info  -fPIC  ",
+    "7": "C:/ZAG-ZEG-RECOGNIZE_FACE-LIB_2/app/.externalNativeBuild/cmake/debug/armeabi-v7a/jnilibsvm"
+  },
+  "buildFiles": [
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+    "C:\\AndroidSDKPortable\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\CMakeLists.txt",
+    "C:\\AndroidSDKPortable\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "jnilibsvm-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target jnilibsvm",
+      "buildType": "debug",
+      "toolchain": "2491395982",
+      "abi": "armeabi-v7a",
+      "artifactName": "jnilibsvm",
+      "files": [
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\common.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\jnilibsvm.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-predict.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-scale.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-train.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\CMakeLists.txt",
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\common.h",
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-predict.h",
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-scale.h",
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm-train.h",
+          "workingDirectoryOrdinal": 7
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\jnilibsvm\\libsvm\\svm.h",
+          "workingDirectoryOrdinal": 7
+        }
+      ],
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libjnilibsvm.so"
+    },
+    "tensorflow_demo-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target tensorflow_demo",
+      "buildType": "debug",
+      "toolchain": "2491395982",
+      "abi": "armeabi-v7a",
+      "artifactName": "tensorflow_demo",
+      "files": [
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\config.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\flow_cache.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\geom.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\gl_utils.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image-inl.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_data.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_utils.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\integral_image.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\jni_utils.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_model.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\sprite.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\prewhiten.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.h",
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\prewhiten.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        },
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 2
+        }
+      ],
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libtensorflow_demo.so"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\AndroidSDKPortable\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native-lib",
+      "buildType": "debug",
+      "toolchain": "2491395982",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\src\\main\\jni\\facedetect\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "C:\\ZAG-ZEG-RECOGNIZE_FACE-LIB_2\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "2491395982": {
+      "cppCompilerExecutable": "C:\\AndroidSDKPortable\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}
