@@ -1,14 +1,12 @@
 # Realtime Face Recognizer
 This project demonstrates realtime face recognition on Android.
 <br/>
-This is a project to recognize faces that can be used for employee attendance or others.
-<br/>
-This project uses OpenCv technology and Tensor flow.
+This is a project to recognize faces that can be used for employee attendance using OpenCv technology and Tensor flow.
 <br/>
 Watch the video of its use.
 <br/>
 <br/>
-[![SC2 Video](https://img.youtube.com/vi/8A11bzfxZZg/0.jpg)](http://www.youtube.com/watch?v=8A11bzfxZZg)
+[![SC2 Video](https://img.youtube.com/vi/Lt_ViMnLPxk/0.jpg)](https://www.youtube.com/watch?v=Lt_ViMnLPxk)
 <br/>
 <br/>
 <h2>License</h2>
